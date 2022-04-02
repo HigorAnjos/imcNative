@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "imcNative",
+    "slug": "imcNative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
